@@ -2,6 +2,21 @@
 
 A modern web application that helps you discover delicious recipes using ingredients you have on hand. Built with React, TypeScript, and Tailwind CSS.
 
+## 📸 Screenshots
+
+### Homepage - Search Interface
+![Homepage](public/screenshots/homepage.png)
+*Clean and intuitive search interface with ingredient suggestions*
+
+### Search Results
+![Search Results](public/screenshots/search-results.png)
+*Beautiful recipe cards displaying key information and ingredients*
+
+### Recipe Details
+![Recipe Details](public/screenshots/recipe-details.png)
+*Detailed recipe view with ingredients, instructions, and cooking information*
+
+
 ## Features
 
 - 🔍 **Ingredient-based Search**: Search for recipes using any combination of ingredients
@@ -30,8 +45,8 @@ A modern web application that helps you discover delicious recipes using ingredi
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd recipe-finder-app
+   git clone https://github.com/sanketInTech/Recipe-Finder-app.git
+   cd Recipe-Finder-app
    ```
 
 2. **Install dependencies**
@@ -59,7 +74,7 @@ A modern web application that helps you discover delicious recipes using ingredi
 
 5. **Open your browser**
    
-   Navigate to [http://localhost:3001/](http://localhost:3001/) to see the app in action.
+   Navigate to [http://localhost:3000](http://localhost:3000) to see the app in action.
 
 ## API Setup
 
