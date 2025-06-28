@@ -74,7 +74,7 @@ A modern web application that helps you discover delicious recipes using ingredi
 
 5. **Open your browser**
    
-   Navigate to [http://localhost:3000](http://localhost:3000) to see the app in action.
+   Navigate to [https://recipefinderapp1.netlify.app/](https://recipefinderapp1.netlify.app/) to see the app in action.
 
 ## API Setup
 
