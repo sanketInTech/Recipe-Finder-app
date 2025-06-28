@@ -12,7 +12,7 @@ This folder contains screenshots of the Recipe Finder application for the README
 ## How to Take Screenshots
 
 ### Desktop Screenshots:
-1. Open your app at `http://localhost:3000`
+1. Open your app at `http://localhost:3001/`
 2. Use browser developer tools (F12) to take screenshots
 3. Or use Windows Snipping Tool / Screenshot functionality
 
