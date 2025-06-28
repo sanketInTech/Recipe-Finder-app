@@ -5,15 +5,15 @@ A modern web application that helps you discover delicious recipes using ingredi
 ## 📸 Screenshots
 
 ### Homepage - Search Interface
-![Homepage](public/screenshots/Clean and intuitive search interface with ingredient suggestions.png)
+![Homepage](public/screenshots/Clean-search-interface.png)
 *Clean and intuitive search interface with ingredient suggestions*
 
 ### Search Results
-![Search Results](public/screenshots/Beautiful recipe cards displaying key information and ingredients.png)
+![Search Results](public/screenshots/Beautiful-recipe-cards.png)
 *Beautiful recipe cards displaying key information and ingredients*
 
 ### Recipe Details
-![Recipe Details](public/screenshots/Detailed recipe view with ingredients, instructions, and cooking information.png)
+![Recipe Details](public/screenshots/recipe-view-ingredients-instructions.png)
 *Detailed recipe view with ingredients, instructions, and cooking information*
 
 
